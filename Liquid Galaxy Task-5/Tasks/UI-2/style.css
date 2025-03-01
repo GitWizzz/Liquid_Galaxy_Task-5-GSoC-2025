@@ -4,21 +4,18 @@
     initial-value: 100%;
     color: #4480f4;
 }
-
 @property --gradPurpleStart {
     syntax: "<percentage>";
     inherits: false;
     initial-value: 100%;
     color: #9f86e0;
 }
-
 @property --gradPurpleEnd {
     syntax: "<percentage>";
     inherits: false;
     initial-value: 100%;
     color: #9f86e0;
 }
-
 @property --gradBluePurpleEnd {
     syntax: "<percentage>";
     inherits: false;
